@@ -1,0 +1,7 @@
+{
+  "presets": [["env", {
+    "targets": {
+      "browsers": ["last 2 Firefox versions", "last 2 chrome versions"]
+    }
+  }]]
+}

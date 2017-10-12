@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "2ch Trip search",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "選択したトリップを http://2ch-trip.xyz/ から逆引きします",
+    "description": "The description of the application"
+  }
+}
